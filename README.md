@@ -9,20 +9,29 @@
 
 
 <h2> Argentina </h2>
-<h3> Casos acumulados por semana </h3>
+**Casos acumulados por semana**
 
 | Casos Totales | Casos cada 100k |
 |-------------- |---------------- |
 |<img src="imagenes/ARGENTINA-casos.png" width="300">                  |<img src="imagenes/ARGENTINA-casosx100k.png" width="370">|
 
 <h2> Córdoba </h2>
-<h3> Casos acumulados por semana </h3>
+**Casos acumulados por semana**
 
 |<img src="imagenes/CORDOBA-casos.png" width="300">|<img src="imagenes/CORDOBA-casos-BAR.png" width="350">|
 
-<h3> Letalidad </h3>
+**Letalidad**
+
 Esto es el porcentaje de muestes respecto a la cantidad de infectados
 <img src="imagenes/CORDOBA-Letalidad.png" width="300">
+
+<h2> Departamento Río cuarto </h2>
+
+**Estadísticas Varias**
+
+<img src="imagenes/RIOCUARTO-Estadisticas.png" width="800">
+
+
 
 <h1> Modelización </h1>
 <h3> Argentina </h3>
