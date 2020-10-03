@@ -26,13 +26,13 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
 
 <h2> Modelización </h2>
 <h3> Argentina </h3>
-<img src="imagenes/ARGENTINAfit.png" width="600">
+<img src="imagenes/ARGENTINAfit.png" width="800">
 
 <h2> Córdoba </h2>
-<img src="imagenes/CORDOBAfit.png" width="600">
+<img src="imagenes/CORDOBAfit.png" width="800">
 
 <h3> Río Cuarto </h3>
-<img src="imagenes/RIOCUARTOfit.png" width="600">
+<img src="imagenes/RIOCUARTOfit.png" width="800">
 
 <h2> Ciudad Autónoma de Buenos aires </h2>
-<img src="imagenes/CABAfit.png" width="600">
+<img src="imagenes/CABAfit.png" width="800">
