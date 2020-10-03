@@ -4,7 +4,7 @@
 
 **Universidad Nacional de Río Cuarto**
 
-<h1> Estadísticas y modelización pandemia  COVID-19 </h1>
+<h1> Visualización Datos</h1>
 
 
 
@@ -24,7 +24,7 @@
 Esto es el porcentaje de muestes respecto a la cantidad de infectados
 <img src="imagenes/CORDOBA-Letalidad.png" width="300">
 
-<h2> Modelización </h2>
+<h1> Modelización </h1>
 <h3> Argentina </h3>
 <img src="imagenes/ARGENTINAfit.png" width="800">
 
