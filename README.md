@@ -16,6 +16,13 @@
 |<img src="imagenes/ARGENTINA-casos.png" width="300">                  |<img src="imagenes/ARGENTINA-casosx100k.png" width="370">|
 
 <h2> Córdoba </h2>
+**Casos acumulados 01/04/2020-02/10/2020**
+<video width="320" height="240" controls>
+ <source src="video/PandemiaCOVID19Cordoba.mp4" type="video/mp4">
+</video> 
+
+
+
 **Casos acumulados por semana**
 
 |<img src="imagenes/CORDOBA-casos.png" width="300">|<img src="imagenes/CORDOBA-casos-BAR.png" width="350">|
