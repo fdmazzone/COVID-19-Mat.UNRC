@@ -11,13 +11,13 @@
 
 
 
+<h3> Córdoba, casos acumulados 01/04/2020-02/10/2020 </h3>
 
-<h3> Argentina, casos acumulados 01/04/2020-02/10/2020 </h3>
 <video width="640" height="480" controls>
  <source src="video/PandemiaCOVID19Cordoba.mp4" type="video/mp4">
 </video>
 
-<h3> Córdoba, casos acumulados 01/04/2020-02/10/2020 </h3>
+<h3> Argentina, casos acumulados 01/04/2020-02/10/2020 </h3>
 <video width="640" height="480" controls>
  <source src="video/ArgentinaAnimacion.mp4" type="video/mp4">
 </video>
