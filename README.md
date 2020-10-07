@@ -6,25 +6,35 @@
 
 <h1> Visualización Datos</h1>
 
+<h2> Animaciones </h2>
+
+
+
+
+
+<h3> Argentina, casos acumulados 01/04/2020-02/10/2020 </h3>
+<video width="640" height="480" controls>
+ <source src="video/PandemiaCOVID19Cordoba.mp4" type="video/mp4">
+</video>
+
+<h3> Córdoba, casos acumulados 01/04/2020-02/10/2020 </h3>
+<video width="640" height="480" controls>
+ <source src="video/ArgentinaAnimacion.mp4" type="video/mp4">
+</video>
 
 
 <h2> Argentina </h2>
-**Casos acumulados por semana**
+**Casos acumulados última semana**
 
 | Casos Totales | Casos cada 100k |
 |-------------- |---------------- |
 |<img src="imagenes/ARGENTINA-casos.png" width="300">                  |<img src="imagenes/ARGENTINA-casosx100k.png" width="370">|
 
 <h2> Córdoba </h2>
-**Casos acumulados 01/04/2020-02/10/2020**
-
-<video width="640" height="480" controls>
- <source src="video/PandemiaCOVID19Cordoba.mp4" type="video/mp4">
-</video>
 
 
 
-**Casos acumulados por semana**
+**Casos acumulados última semana**
 
 |<img src="imagenes/CORDOBA-casos.png" width="300">|<img src="imagenes/CORDOBA-casos-BAR.png" width="350">|
 
