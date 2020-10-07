@@ -43,7 +43,7 @@
 Esto es el porcentaje de muestes respecto a la cantidad de infectados
 <img src="imagenes/CORDOBA-Letalidad.png" width="300">
 
-<h2> Departamento Río cuarto </h2>
+<h2> Departamento Río Cuarto </h2>
 
 **Estadísticas Varias**
 
@@ -55,11 +55,17 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
 <h3> Argentina </h3>
 <img src="imagenes/ARGENTINAfit.png" width="800">
 
-<h2> Córdoba </h2>
+<h2> Córdoba (Provincia) </h2>
 <img src="imagenes/CORDOBAfit.png" width="800">
 
-<h3> Río Cuarto </h3>
+<h3> Río Cuarto (Córdoba)</h3>
 <img src="imagenes/RIOCUARTOfit.png" width="800">
+
+<h3> Capital (Córdoba) </h3>
+<img src="imagenes/CORDOBACAPITALfit.png" width="800">
+
+<h3> Juárez Celman (Córdoba) </h3>
+<img src="imagenes/JUAREZCELMANfit.png" width="800">
 
 <h2> Ciudad Autónoma de Buenos aires </h2>
 <img src="imagenes/CABAfit.png" width="800">
