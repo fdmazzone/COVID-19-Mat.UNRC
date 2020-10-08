@@ -22,6 +22,14 @@
  <source src="video/ArgentinaAnimacion.mp4" type="video/mp4">
 </video>
 
+<h3> AMBA casos acumulados y diarios 01/04/2020-06/10/2020 </h3>
+<video width="640" height="480" controls>
+ <source src="video/AMBA.mp4" type="video/mp4">
+</video>
+
+<video width="640" height="480" controls>
+ <source src="video/AMBA-diarios.mp4" type="video/mp4">
+</video>
 
 <h2> Argentina </h2>
 **Casos acumulados última semana**
