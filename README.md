@@ -58,14 +58,32 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
 <h2> Córdoba (Provincia) </h2>
 <img src="imagenes/CORDOBAfit.png" width="800">
 
-<h3> Río Cuarto (Córdoba)</h3>
-<img src="imagenes/RIOCUARTOfit.png" width="800">
+<h3> Calamuchita (Córdoba) </h3>
+<img src="imagenes/CALAMUCHITAfit.png" width="800">
 
 <h3> Capital (Córdoba) </h3>
 <img src="imagenes/CORDOBACAPITALfit.png" width="800">
 
+<h3> Gral San Martín (Córdoba)</h3>
+<img src="imagenes/GRALSANMARTINfit.png" width="800">
+
 <h3> Juárez Celman (Córdoba) </h3>
 <img src="imagenes/JUAREZCELMANfit.png" width="800">
+
+<h3> Marcos Juárez (Córdoba) </h3>
+<img src="imagenes/MARCOSJUAREZfit.png" width="800">
+
+<h3> Río Cuarto (Córdoba)</h3>
+<img src="imagenes/RIOCUARTOfit.png" width="800">
+
+<h3> Roque Sanz Peña (Córdoba)</h3>
+<img src="imagenes/ROQUESANZPEÑAfit.png" width="800">
+
+<h3> Tercero Arriba (Córdoba)</h3>
+<img src="imagenes/TERCEROARRIBAfit.png" width="800">
+
+<h3> Unión (Córdoba)</h3>
+<img src="imagenes/UNIONfit.png" width="800">
 
 <h2> Ciudad Autónoma de Buenos aires </h2>
 <img src="imagenes/CABAfit.png" width="800">
