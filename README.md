@@ -88,7 +88,7 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
     6. **Río Cuarto**
 <img src="imagenes/RIOCUARTOfit.png" width="800">
 
-    7. **Roque Sanz Peña**
+    7. **Gral Roca**
 <img src="imagenes/ROQUESANZPEÑAfit.png" width="800">
 
     8. **Tercero Arriba**
@@ -99,3 +99,12 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
 
 2. **Ciudad Autónoma de Buenos Aires**
 <img src="imagenes/CABAfit.png" width="800">
+
+3. **Mendoza**
+<img src="imagenes/MENDOZAfit.png" width="800">
+
+4. **Santa Fe**
+<img src="imagenes/SANTAFEfit.png" width="800">
+
+5. **Tucumán**
+<img src="imagenes/TUCUMANfit.png" width="800">
