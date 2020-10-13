@@ -74,22 +74,22 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
         <img src="imagenes/CALAMUCHITAfit.png" width="800">
 
     2. **Capital**
-<img src="imagenes/CORDOBACAPITALfit.png" width="800">
+        <img src="imagenes/CORDOBACAPITALfit.png" width="800">
 
-    3. **Gral San Martín**
-<img src="imagenes/GRALSANMARTINfit.png" width="800">
+    3. **Gral Roca**
+        <img src="imagenes/GRALROCAfit.png" width="800">
 
-    4. **Juárez Celman**
-<img src="imagenes/JUAREZCELMANfit.png" width="800">
+    4. **Gral San Martín**
+        <img src="imagenes/GRALSANMARTINfit.png" width="800">
 
-    5: **Marcos Juárez**
-<img src="imagenes/MARCOSJUAREZfit.png" width="800">
+    5. **Juárez Celman**
+        <img src="imagenes/JUAREZCELMANfit.png" width="800">
 
-    6. **Río Cuarto**
-<img src="imagenes/RIOCUARTOfit.png" width="800">
+    6. **Marcos Juárez**
+        <img src="imagenes/MARCOSJUAREZfit.png" width="800">
 
-    7. **Gral Roca**
-<img src="imagenes/ROQUESANZPEÑAfit.png" width="800">
+    7. **Río Cuarto**
+        <img src="imagenes/RIOCUARTOfit.png" width="800">
 
     8. **Tercero Arriba**
 <img src="imagenes/TERCEROARRIBAfit.png" width="800">
