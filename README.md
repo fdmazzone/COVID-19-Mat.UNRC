@@ -108,3 +108,6 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
 
 5. **Tucumán**
 <img src="imagenes/TUCUMANfit.png" width="800">
+
+<h2> Brasil </h2>
+<img src="imagenes/BRASILfit.png" width="800">
