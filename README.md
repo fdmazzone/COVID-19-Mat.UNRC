@@ -27,16 +27,12 @@
  <source src="video/AMBA.mp4" type="video/mp4">
 </video>
 
-<video width="640" height="480" controls>
- <source src="video/AMBA-diarios.mp4" type="video/mp4">
-</video>
-
 <h2> Argentina </h2>
 **Casos acumulados última semana**
 
 | Casos Totales | Casos cada 100k |
 |-------------- |---------------- |
-|<img src="imagenes/ARGENTINA-casos.png" width="300">                  |<img src="imagenes/ARGENTINA-casosx100k.png" width="370">|
+|<img src="imagenes/ARGENTINA-casos.png" width="360">                  |<img src="imagenes/ARGENTINA-casosx100k.png" width="370">|
 
 <h2> Córdoba </h2>
 
