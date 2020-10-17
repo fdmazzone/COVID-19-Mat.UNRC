@@ -87,23 +87,35 @@ Esto es el porcentaje de muestes respecto a la cantidad de infectados
     7. **Río Cuarto**
         <img src="imagenes/RIOCUARTOfit.png" width="800">
 
-    8. **Tercero Arriba**
+    8. **Presidente Roque Sáenz Peña**
+        <img src="imagenes/ROQUESAENZPEÑAfit.png" width="800">
+
+    9. **Tercero Arriba**
 <img src="imagenes/TERCEROARRIBAfit.png" width="800">
 
     9. **Unión**
 <img src="imagenes/UNIONfit.png" width="800">
 
-2. **Ciudad Autónoma de Buenos Aires**
+2. **Buenos Aires**
+<img src="imagenes/BUENOSAIRESfit.png" width="800">
+
+3. **Ciudad Autónoma de Buenos Aires**
 <img src="imagenes/CABAfit.png" width="800">
 
-3. **Mendoza**
+4. **Mendoza**
 <img src="imagenes/MENDOZAfit.png" width="800">
 
-4. **Santa Fe**
+5. **Jujuy**
+<img src="imagenes/JUJUYfit.png" width="800">
+
+6. **Santa Fe**
 <img src="imagenes/SANTAFEfit.png" width="800">
 
-5. **Tucumán**
+7. **Tucumán**
 <img src="imagenes/TUCUMANfit.png" width="800">
 
 <h2> Brasil </h2>
 <img src="imagenes/BRASILfit.png" width="800">
+
+<h2> Italia </h2>
+<img src="imagenes/ITALIAfit.png" width="800">
