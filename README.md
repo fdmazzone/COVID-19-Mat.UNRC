@@ -30,9 +30,11 @@
 <h2> Argentina </h2>
 **Casos acumulados última semana**
 
-| Casos Totales | Casos cada 100k |
+| Animación casos acumulados por semana | Casos por millón |
 |-------------- |---------------- |
-|<img src="imagenes/ARGENTINA-casos.png" width="360">                  |<img src="imagenes/ARGENTINA-casosx100k.png" width="370">|
+|<video width="640" height="480" controls>
+ <source src="video/ARGSemanales.mp4" type="video/mp4">
+</video>               |<img src="imagenes/ARGENTINA-casosx1M.png" width="370">|
 
 <h2> Córdoba </h2>
 
