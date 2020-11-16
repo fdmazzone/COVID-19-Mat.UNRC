@@ -7,7 +7,11 @@
 <h1> Visualización Datos</h1>
 
 <h2> Animaciones </h2>
+**Argentina: casos acumulados por semana**
 
+<video width=100% height=100% controls>
+ <source src="video/ARGSemanales.mp4" type="video/mp4">
+</video>
 
 
 
@@ -28,11 +32,7 @@
 </video>
 
 <h2> Argentina </h2>
-**Casos acumulados última semana**
 
-<video width="640" height="480" controls>
- <source src="video/ARGSemanales.mp4" type="video/mp4">
-</video> 
 
 | Animación casos acumulados por semana | Casos por millón |
 |-------------- |---------------- |
