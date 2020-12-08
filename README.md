@@ -105,7 +105,7 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 |<img src="imagenes/Bolivia.png">|<img src="imagenes/Chile.png">|
 |<img src="imagenes/Peru.png">|<img src="imagenes/Ecuador.png">|
 |<img src="imagenes/Colombia.png">|<img src="imagenes/Venezuela.png">|
-
+|<img src="imagenes/Brazil.png">||
 
 <h2> Caribe </h2>
 
