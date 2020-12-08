@@ -92,5 +92,27 @@
 
 <h1> DATOS INTERNACIONALES </h1>
 
+<h2> América del Sur </h1>
+
 |----------|----------|
 |<img src="imagenes/Uruguay.png">|<img src="imagenes/Paraguay.png">|
+|<img src="imagenes/Bolivia.png">|<img src="imagenes/Chile.png">|
+|<img src="imagenes/Peru.png">|<img src="imagenes/Ecuador.png">|
+|<img src="imagenes/Colombia.png">|<img src="imagenes/Venezuela.png">|
+
+<h2> Caribe </h1>
+
+<img src="imagenes/Cuba.png">
+
+<h2> América del Norte </h1>
+
+|----------|----------|
+|<img src="imagenes/Mexico.png">|<img src="imagenes/US.png">|
+
+<h2> Europa </h1>
+
+|----------|----------|
+|<img src="imagenes/Spain.png">|<img src="imagenes/Italy.png">|
+|<img src="imagenes/France.png">|<img src="imagenes/United Kingdom.png">|
+|<img src="imagenes/Germany.png">|<img src="imagenes/Sweden.png">|
+|<img src="imagenes/Norway.png">|<img src="imagenes/Denmark.png">|
