@@ -4,7 +4,7 @@
 
 **Universidad Nacional de Río Cuarto**
 
-<h1> Visualización Datos</h1>
+<h1> ARGENTINA</h1>
 
 <h2> Animaciones </h2>
 
@@ -89,8 +89,8 @@
 7. **Tucumán**
 <img src="imagenes/TUCUMANfit.png" width="800">
 
-<h2> Brasil </h2>
-<img src="imagenes/BRASILfit.png" width="800">
 
-<h2> Italia </h2>
-<img src="imagenes/ITALIAfit.png" width="800">
+<h1> DATOS INTERNACIONALES </h1>
+
+|----------|----------|
+|<img src="imagenes/Uruguay.png">|<img src="imagenes/Paraguay.png">|
