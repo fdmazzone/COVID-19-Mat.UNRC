@@ -4,7 +4,7 @@
 
 **Universidad Nacional de Río Cuarto**
 
-<h1> Visualización Datos</h1>
+<h1> ARGENTINA</h1>
 
 <h2> Animaciones </h2>
 
@@ -89,8 +89,35 @@
 7. **Tucumán**
 <img src="imagenes/TUCUMANfit.png" width="800">
 
-<h2> Brasil </h2>
-<img src="imagenes/BRASILfit.png" width="800">
 
-<h2> Italia </h2>
-<img src="imagenes/ITALIAfit.png" width="800">
+<h1> DATOS INTERNACIONALES </h1>
+
+<h2> América del Sur </h2>
+
+|----------|----------|
+|<img src="imagenes/Uruguay.png">|<img src="imagenes/Paraguay.png">|
+|<img src="imagenes/Bolivia.png">|<img src="imagenes/Chile.png">|
+|<img src="imagenes/Peru.png">|<img src="imagenes/Ecuador.png">|
+|<img src="imagenes/Colombia.png">|<img src="imagenes/Venezuela.png">|
+
+<h2> Caribe </h2>
+
+<img src="imagenes/Cuba.png">
+
+<h2> América del Norte </h2>
+
+|----------|----------|
+|<img src="imagenes/Mexico.png">|<img src="imagenes/US.png">|
+
+<h2> Europa </h2>
+
+|----------|----------|
+|<img src="imagenes/Spain.png">|<img src="imagenes/Italy.png">|
+|<img src="imagenes/France.png">|<img src="imagenes/United Kingdom.png">|
+|<img src="imagenes/Germany.png">|<img src="imagenes/Sweden.png">|
+|<img src="imagenes/Norway.png">|<img src="imagenes/Denmark.png">|
+
+
+<h2> China </h2>
+
+<img src="imagenes/China.png">
