@@ -8,16 +8,16 @@
 
 <h2> Animaciones </h2>
 
-<h3> Córdoba, casos semanales 01/04/2020-07/12/2020 </h3>
+<h3> Córdoba: casos semanales 01/04/2020-07/12/2020 </h3>
 
-<video width=100% height=100% controls>
+<video width="640" height="480" controls>
  <source src="video/CordobaSemanales.mp4" type="video/mp4">
 </video>
 
-<h3> Córdoba, casos acumulados 01/04/2020-07/12/2020 </h3>
+<h3> Córdoba: casos acumulados 01/04/2020-07/12/2020 </h3>
 
-<video width=100% height=100% controls>
- <source src="video/CbaAcumulados.mp4" type="video/mp4">
+<video width="640" height="480" controls>
+ <source src="video/CordobaAcumulados.mp4" type="video/mp4">
 </video>
 
 <h3> AMBA, casos semanales 01/04/2020-07/12/2020 </h3>
@@ -29,10 +29,9 @@
 
 <h3> Argentina, casos smanales 01/04/2020-07/12/2020 </h3>
 
-<video width=100% height=100% controls>
+<video width="640" height="480" controls>
  <source src="video/ARGSemanales.mp4" type="video/mp4">
 </video>
-
 
 
 
