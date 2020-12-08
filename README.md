@@ -26,7 +26,7 @@
 
 | Casos semanales 01/04/2020-02/12/2020        | Casos por millón              |
 | -------------                                | -------------                 |
-|<video width="440" height="1000" controls><source src="video/ARGSemanales.mp4" type="video/mp4"></video>|<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="600">|
+|<video width="440" height="1000" controls><source src="video/ARGSemanales.mp4" type="video/mp4"></video>|<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="650">|
 
 
 
