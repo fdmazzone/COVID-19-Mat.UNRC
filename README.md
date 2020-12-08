@@ -9,9 +9,12 @@
 <h2> Animaciones </h2>
 
 <h3> Córdoba, casos semanales 01/04/2020-07/12/2020 </h3>
+
 <video width=100% height=100% controls>
  <source src="video/CordobaSemanales.mp4" type="video/mp4">
 </video>
+
+<h3> Córdoba, casos acumulados 01/04/2020-07/12/2020 </h3>
 
 <video width=100% height=100% controls>
  <source src="video/CbaAcumulados.mp4" type="video/mp4">
@@ -20,55 +23,22 @@
 
 
 
-**Argentina: casos acumulados por semana**
+<h3> Argentina, casos acumulados 01/04/2020-07/12/2020 </h3>
 
 <video width=100% height=100% controls>
  <source src="video/ARGSemanales.mp4" type="video/mp4">
 </video>
 
 
-
-<h3> Córdoba, casos acumulados 01/04/2020-02/10/2020 </h3>
-
-<video width="640" height="480" controls>
- <source src="video/PandemiaCOVID19Cordoba.mp4" type="video/mp4">
-</video>
-
-<h3> Argentina, casos acumulados 01/04/2020-02/10/2020 </h3>
-<video width="640" height="480" controls>
- <source src="video/ArgentinaAnimacion.mp4" type="video/mp4">
-</video>
+<h3> AMBA, casos semanales 01/04/2020-07/12/2020 </h3>
 
 <h3> AMBA casos acumulados y diarios 01/04/2020-06/10/2020 </h3>
 <video width="640" height="480" controls>
- <source src="video/AMBA.mp4" type="video/mp4">
+ <source src="video/AMBASemanales.mp4" type="video/mp4">
 </video>
 
-<h2> Argentina </h2>
-
-
-| Animación casos acumulados por semana | Casos por millón |
-|-------------- |---------------- |
-|              |<img src="imagenes/ARGENTINA-casosx1M.png" width="370">|
-
-<h2> Córdoba </h2>
-
-
-
-**Casos acumulados última semana**
-
-|<img src="imagenes/CORDOBA-casos.png" width="300">|<img src="imagenes/CORDOBA-casos-BAR.png" width="350">|
-
-**Letalidad**
-
-Esto es el porcentaje de muestes respecto a la cantidad de infectados
-<img src="imagenes/CORDOBA-Letalidad.png" width="300">
-
-<h2> Departamento Río Cuarto </h2>
-
-**Estadísticas Varias**
-
-<img src="imagenes/RIOCUARTO-Estadisticas.png" width="800">
+<h3> Argentina casos por millón</h3>
+<img src="imagenes/ARGENTINA-casosx1M.png" width="370">|
 
 
 
