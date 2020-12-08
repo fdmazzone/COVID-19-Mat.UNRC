@@ -76,6 +76,10 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 2. **Buenos Aires**
 <img src="imagenes/BUENOSAIRESfit.png" width="800">
 
+    1. **La Matanza**
+
+<img src="imagenes/LAMATANZAfit.png" width="800">
+
 3. **Ciudad Autónoma de Buenos Aires**
 <img src="imagenes/CABAfit.png" width="800">
 
