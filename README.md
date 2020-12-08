@@ -20,22 +20,21 @@
  <source src="video/CbaAcumulados.mp4" type="video/mp4">
 </video>
 
+<h3> AMBA, casos semanales 01/04/2020-07/12/2020 </h3>
+
+<video width="640" height="480" controls>
+ <source src="video/AMBASemanales.mp4" type="video/mp4">
+</video>
 
 
-
-<h3> Argentina, casos acumulados 01/04/2020-07/12/2020 </h3>
+<h3> Argentina, casos smanales 01/04/2020-07/12/2020 </h3>
 
 <video width=100% height=100% controls>
  <source src="video/ARGSemanales.mp4" type="video/mp4">
 </video>
 
 
-<h3> AMBA, casos semanales 01/04/2020-07/12/2020 </h3>
 
-<h3> AMBA casos acumulados y diarios 01/04/2020-06/10/2020 </h3>
-<video width="640" height="480" controls>
- <source src="video/AMBASemanales.mp4" type="video/mp4">
-</video>
 
 <h3> Argentina casos por millón</h3>
 <img src="imagenes/ARGENTINA-casosx1M.png" width="370">|
