@@ -32,6 +32,8 @@
 
 <h1> Modelización </h1>
 
+Utilización de un modelo SEIR para estimar la velocidad de propagación de la pandemia y predecir los escenarios futuro. Ver [desripción del modelo](file:///home/fernando/fer/Investigacion/Trabajo_en_curso/COVID-19-Programas/COVID-19-WEB/doc/CharlaSEMCOVID.pdf) para más detalles
+
 <h2> Argentina </h2>
 <img src="imagenes/ARGENTINAfit.png" width="800">
 
