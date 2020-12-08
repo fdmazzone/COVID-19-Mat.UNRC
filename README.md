@@ -100,6 +100,7 @@
 |<img src="imagenes/Peru.png">|<img src="imagenes/Ecuador.png">|
 |<img src="imagenes/Colombia.png">|<img src="imagenes/Venezuela.png">|
 
+
 <h2> Caribe </h2>
 
 <img src="imagenes/Cuba.png">
