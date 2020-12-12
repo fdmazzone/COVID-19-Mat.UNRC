@@ -41,44 +41,44 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 <h2> Provincias </h2>
 
 1. **Córdoba**
-<img src="imagenes/CORDOBAfit.png" width="800">
+<img src="imagenes/CÓRDOBAfit.png" width="800">
 
     1. **Calamuchita**
         <img src="imagenes/CALAMUCHITAfit.png" width="800">
 
     2. **Capital**
-        <img src="imagenes/CORDOBACAPITALfit.png" width="800">
+        <img src="imagenes/CAPITALfit.png" width="800">
 
     3. **Gral Roca**
-        <img src="imagenes/GRALROCAfit.png" width="800">
+        <img src="imagenes/ARGSemanalesRAL ROCAfit.png" width="800">
 
     4. **Gral San Martín**
-        <img src="imagenes/GRALSANMARTINfit.png" width="800">
+        <img src="imagenes/GENERAL SAN MARTÍNfit.png" width="800">
 
     5. **Juárez Celman**
-        <img src="imagenes/JUAREZCELMANfit.png" width="800">
+        <img src="imagenes/JUÁREZ CELMANfit.png" width="800">
 
     6. **Marcos Juárez**
-        <img src="imagenes/MARCOSJUAREZfit.png" width="800">
+        <img src="imagenes/MARCOS JUÁREZfit.png" width="800">
 
     7. **Río Cuarto**
-        <img src="imagenes/RIOCUARTOfit.png" width="800">
+        <img src="imagenes/RÍO CUARTOfit.png" width="800">
 
     8. **Presidente Roque Sáenz Peña**
-        <img src="imagenes/ROQUESAENZPEÑAfit.png" width="800">
+        <img src="imagenes/PRESIDENTE ROQUE SÁENZ PEÑAfit.png" width="800">
 
     9. **Tercero Arriba**
-<img src="imagenes/TERCEROARRIBAfit.png" width="800">
+<img src="imagenes/TERCERO ARRIBAfit.png" width="800">
 
     9. **Unión**
-<img src="imagenes/UNIONfit.png" width="800">
+<img src="imagenes/UNIÓNfit.png" width="800">
 
 2. **Buenos Aires**
-<img src="imagenes/BUENOSAIRESfit.png" width="800">
+<img src="imagenes/BUENOS AIRESfit.png" width="800">
 
     1. **La Matanza**
 
-<img src="imagenes/LAMATANZAfit.png" width="800">
+<img src="imagenes/LA MATANZAfit.png" width="800">
 
 3. **Ciudad Autónoma de Buenos Aires**
 <img src="imagenes/CABAfit.png" width="800">
@@ -90,10 +90,10 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 <img src="imagenes/JUJUYfit.png" width="800">
 
 6. **Santa Fe**
-<img src="imagenes/SANTAFEfit.png" width="800">
+<img src="imagenes/SANTA FEfit.png" width="800">
 
 7. **Tucumán**
-<img src="imagenes/TUCUMANfit.png" width="800">
+<img src="imagenes/TUCUMÁNfit.png" width="800">
 
 
 <h1> DATOS INTERNACIONALES </h1>
