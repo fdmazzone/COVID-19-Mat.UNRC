@@ -4,7 +4,7 @@
 
 **Universidad Nacional de Río Cuarto**
 
-<h1> ARGENTINA</h1>
+<h1> ARGENTINA </h1>
 
 <h2> Animaciones </h2>
 
