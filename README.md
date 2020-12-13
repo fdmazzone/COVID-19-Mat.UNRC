@@ -98,6 +98,18 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
 <h1> DATOS INTERNACIONALES </h1>
 
+<h2> Casos acumulados  22/01/2020-12/12/2020 </h2>
+
+<video width="640" height="480" controls>
+ <source src="video/PandemiaGlobal.mp4" type="video/mp4">
+</video>
+
+<h2> Casos por millón de habitantes </h2>
+
+<img src="imagenes/MUNDO-casosx1M.png" width="800">
+
+
+
 <h2> América del Sur </h2>
 
 |----------|----------|
@@ -107,14 +119,24 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 |<img src="imagenes/Colombia.png">|<img src="imagenes/Venezuela.png">|
 |<img src="imagenes/Brazil.png">||
 
-<h2> Caribe </h2>
+<h2> América Central </h2>
 
-<img src="imagenes/Cuba.png">
+|----------|----------|
+|<img src="imagenes/Panama.png">|<img src="imagenes/Costa Rica.png">|
+|<img src="imagenes/Honduras.png">|<img src="imagenes/Guatemala.png">|
+|<img src="imagenes/El Salvador.png">|<img src="imagenes/Nicaragua.png">|
+
+
+<h2> Caribe </h2>
+|----------|----------|
+|<img src="imagenes/Cuba.png">|<img src="imagenes/Dominican Republic.png">|
+|<img src="imagenes/Haiti.png">||
 
 <h2> América del Norte </h2>
 
 |----------|----------|
 |<img src="imagenes/Mexico.png">|<img src="imagenes/US.png">|
+|<img src="imagenes/Canada.png">||
 
 <h2> Europa </h2>
 
@@ -123,8 +145,16 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 |<img src="imagenes/France.png">|<img src="imagenes/United Kingdom.png">|
 |<img src="imagenes/Germany.png">|<img src="imagenes/Sweden.png">|
 |<img src="imagenes/Norway.png">|<img src="imagenes/Denmark.png">|
+|<img src="imagenes/Croatia.png">|<img src="imagenes/Czechia.png">|
+|<img src="imagenes/Portugal.png">|<img src="imagenes/Poland.png">|
+|<img src="imagenes/Romania.png">|<img src="imagenes/Russia.png">|
+|<img src="imagenes/Serbia.png">|<img src="imagenes/Turkey.png">|
+|<img src="imagenes/Hungary.png">||
 
+<h2> Asia</h2>
 
-<h2> China </h2>
-
-<img src="imagenes/China.png">
+|----------|----------|
+|<img src="imagenes/China.png">|<img src="imagenes/Japan.png">|
+|<img src="imagenes/Iran.png">|<img src="imagenes/Korea, South.png">|
+|<img src="imagenes/India.png">|<img src="imagenes/Iraq.png">|
+|<img src="imagenes/Saudi Arabia.png">||
