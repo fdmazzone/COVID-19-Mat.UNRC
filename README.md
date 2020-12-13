@@ -15,7 +15,7 @@
 </video>
 
 
-<h3> AMBA, casos semanales 01/04/2020-02/12/2020 </h3>
+<h3> AMBA,casos semanales 01/04/2020-02/12/2020 </h3>
 
 <video width="640" height="480" controls>
  <source src="video/AMBASemanales.mp4" type="video/mp4">
