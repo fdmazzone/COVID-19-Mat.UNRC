@@ -128,6 +128,7 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
 
 <h2> Caribe </h2>
+
 |----------|----------|
 |<img src="imagenes/Cuba.png">|<img src="imagenes/Dominican Republic.png">|
 |<img src="imagenes/Haiti.png">||
