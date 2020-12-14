@@ -8,7 +8,7 @@
 
 <h2> Animaciones </h2>
 
-<h3> Córdoba. casos semanales 01/04/2020-02/12/2020 </h3>
+<h3> Córdoba, casos semanales 01/04/2020-02/12/2020 </h3>
 
 <video width="640" height="480" controls>
  <source src="video/CordobaSemanales.mp4" type="video/mp4">
@@ -100,8 +100,8 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
 <h2> Casos acumulados  22/01/2020-12/12/2020 </h2>
 
-<video width="640" height="480" controls>
- <source src="video/PandemiaGlobal.mp4" type="video/mp4">
+<video width="1000" height="700" controls>
+ <source src="video/PandeGlobal.mp4" type="video/mp4">
 </video>
 
 <h2> Casos por millón de habitantes </h2>
