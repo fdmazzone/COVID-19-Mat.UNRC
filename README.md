@@ -21,7 +21,6 @@
  <source src="video/AMBASemanales.mp4" type="video/mp4">
 </video>
 
-
 <h3> Argentina </h3>
 
 | Casos semanales 01/04/2020-02/12/2020        | Casos por millón              |
