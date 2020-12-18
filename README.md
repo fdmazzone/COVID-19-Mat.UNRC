@@ -77,7 +77,7 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
     1. **La Matanza**
 
-    [here](docs/README-1.md)
+    [here](amba/README-1.md)
 
 <img src="imagenes/LA MATANZAfit.png" width="800">
 
