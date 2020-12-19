@@ -31,7 +31,7 @@
 
 <h1> Modelización </h1>
 
-Utilización de un modelo SEIR para estimar la velocidad de propagación de la pandemia y predecir los escenarios futuro. Ver [desripción del modelo](https://github.com/fdmazzone/COVID-19-Mat.UNRC/raw/main/doc/CharlaSEMCOVID.pdf) para más detalles.
+Utilización de un modelo SEIR para estimar la velocidad de propagación de la pandemia y predecir los escenarios futuro. Ver [desripción del modelo](https://github.com/fdmazzone/COVID-19-Mat.UNRC/raw/main/docs/CharlaSEMCOVID.pdf) para más detalles.
 
 <h2> Argentina </h2>
 <img src="imagenes/ARGENTINAfit.png" width="800">
@@ -42,12 +42,12 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 1. **Córdoba**
 <img src="imagenes/CÓRDOBAfit.png" width="800">
 
-[<h2>SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTOS</h2>](amba/README.md)
+[SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTOS](cordoba/README.md)
 
 2. **Buenos Aires**
 <img src="imagenes/BUENOS AIRESfit.png" width="800">
 
-[<h2>SITUACIÓN EPIDEMIOLÓGICA POR PARTIDOS REGIÓN AMBA</h2>](amba/README.md)
+[SITUACIÓN EPIDEMIOLÓGICA POR PARTIDOS REGIÓN AMBA](amba/README.md)
 3. **Ciudad Autónoma de Buenos Aires**
 <img src="imagenes/CABAfit.png" width="800">
 
@@ -77,4 +77,4 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 <img src="imagenes/MUNDO-casosx1M.png" width="800">
 
 
-[<h2>SITUACIÓN EPIDEMIOLÓGICA POR PAISES</h2>](internacionales/README.md)
+[SITUACIÓN EPIDEMIOLÓGICA POR PAISES](internacionales/README.md)
