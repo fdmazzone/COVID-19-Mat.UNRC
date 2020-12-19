@@ -42,45 +42,12 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 1. **Córdoba**
 <img src="imagenes/CÓRDOBAfit.png" width="800">
 
-    1. **Calamuchita**
-        <img src="imagenes/CALAMUCHITAfit.png" width="800">
-
-    2. **Capital**
-        <img src="imagenes/CAPITALfit.png" width="800">
-
-    3. **Gral Roca**
-        <img src="imagenes/GENERAL ROCAfit.png" width="800">
-
-    4. **Gral San Martín**
-        <img src="imagenes/GENERAL SAN MARTÍNfit.png" width="800">
-
-    5. **Juárez Celman**
-        <img src="imagenes/JUÁREZ CELMANfit.png" width="800">
-
-    6. **Marcos Juárez**
-        <img src="imagenes/MARCOS JUÁREZfit.png" width="800">
-
-    7. **Río Cuarto**
-        <img src="imagenes/RÍO CUARTOfit.png" width="800">
-
-    8. **Presidente Roque Sáenz Peña**
-        <img src="imagenes/PRESIDENTE ROQUE SÁENZ PEÑAfit.png" width="800">
-
-    9. **Tercero Arriba**
-<img src="imagenes/TERCERO ARRIBAfit.png" width="800">
-
-    9. **Unión**
-<img src="imagenes/UNIÓNfit.png" width="800">
+[<h2>SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTOS</h2>](amba/README.md)
 
 2. **Buenos Aires**
 <img src="imagenes/BUENOS AIRESfit.png" width="800">
 
-    1. **La Matanza**
-
-    [here](amba/README.md)
-
-<img src="imagenes/LA MATANZAfit.png" width="800">
-
+[<h2>SITUACIÓN EPIDEMIOLÓGICA POR PARTIDOS REGIÓN AMBA</h2>](amba/README.md)
 3. **Ciudad Autónoma de Buenos Aires**
 <img src="imagenes/CABAfit.png" width="800">
 
@@ -110,53 +77,4 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 <img src="imagenes/MUNDO-casosx1M.png" width="800">
 
 
-
-<h2> América del Sur </h2>
-
-|----------|----------|
-|<img src="imagenes/Uruguay.png">|<img src="imagenes/Paraguay.png">|
-|<img src="imagenes/Bolivia.png">|<img src="imagenes/Chile.png">|
-|<img src="imagenes/Peru.png">|<img src="imagenes/Ecuador.png">|
-|<img src="imagenes/Colombia.png">|<img src="imagenes/Venezuela.png">|
-|<img src="imagenes/Brazil.png">||
-
-<h2> América Central </h2>
-
-|----------|----------|
-|<img src="imagenes/Panama.png">|<img src="imagenes/Costa Rica.png">|
-|<img src="imagenes/Honduras.png">|<img src="imagenes/Guatemala.png">|
-|<img src="imagenes/El Salvador.png">|<img src="imagenes/Nicaragua.png">|
-
-
-<h2> Caribe </h2>
-
-|----------|----------|
-|<img src="imagenes/Cuba.png">|<img src="imagenes/Dominican Republic.png">|
-|<img src="imagenes/Haiti.png">||
-
-<h2> América del Norte </h2>
-
-|----------|----------|
-|<img src="imagenes/Mexico.png">|<img src="imagenes/US.png">|
-|<img src="imagenes/Canada.png">||
-
-<h2> Europa </h2>
-
-|----------|----------|
-|<img src="imagenes/Spain.png">|<img src="imagenes/Italy.png">|
-|<img src="imagenes/France.png">|<img src="imagenes/United Kingdom.png">|
-|<img src="imagenes/Germany.png">|<img src="imagenes/Sweden.png">|
-|<img src="imagenes/Norway.png">|<img src="imagenes/Denmark.png">|
-|<img src="imagenes/Croatia.png">|<img src="imagenes/Czechia.png">|
-|<img src="imagenes/Portugal.png">|<img src="imagenes/Poland.png">|
-|<img src="imagenes/Romania.png">|<img src="imagenes/Russia.png">|
-|<img src="imagenes/Serbia.png">|<img src="imagenes/Turkey.png">|
-|<img src="imagenes/Hungary.png">||
-
-<h2> Asia</h2>
-
-|----------|----------|
-|<img src="imagenes/China.png">|<img src="imagenes/Japan.png">|
-|<img src="imagenes/Iran.png">|<img src="imagenes/Korea, South.png">|
-|<img src="imagenes/India.png">|<img src="imagenes/Iraq.png">|
-|<img src="imagenes/Saudi Arabia.png">||
+[<h2>SITUACIÓN EPIDEMIOLÓGICA POR PAISES</h2>](internacionales/README.md)
