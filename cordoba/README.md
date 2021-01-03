@@ -1,4 +1,4 @@
-<h1> IMPACTO PANDEMIA POR DEPARTAMENTOS </h1>
+<h1> IMPACTO PANDEMIA POR DEPARTAMENTOS, MODELIZACIÓN </h1>
 
 <h2>Calamuchita</h2>
 
@@ -39,3 +39,9 @@
 <h2>Unión</h2>
 
 <img src="imagenes/UNIÓNfit.png" width="800">
+
+<h1> IMPACTO PANDEMIA POR DEPARTAMENTOS, Estadística general</h1>
+
+<img src="imagenes/Cba1-0.2.png" width="800">
+
+<img src="imagenes/Cba2-0.2.png" width="800">

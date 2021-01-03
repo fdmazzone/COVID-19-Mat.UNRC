@@ -63,6 +63,9 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 7. **Tucumán**
 <img src="imagenes/TUCUMÁNfit.png" width="800">
 
+7. **La Pampa**
+<img src="imagenes/LA PAMPAfit.png" width="800">
+
 
 <h1> DATOS INTERNACIONALES </h1>
 
