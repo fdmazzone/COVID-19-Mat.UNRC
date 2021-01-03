@@ -23,11 +23,13 @@
 
 <h3> Argentina </h3>
 
-| Casos semanales 01/04/2020-02/12/2020        | Casos por millón              |
-| -------------                                | -------------                 |
-|<video width="440" height="1000" controls><source src="video/ARGSemanales.mp4" type="video/mp4"></video>|<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="650">|
+**Casos semanales 01/04/2020-02/12/2020**  
 
+<video width="440" height="1000" controls><source src="video/ARGSemanales.mp4" type="video/mp4"></video>
 
+**Casos por millón**                |
+
+<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="600">
 
 <h1> Modelización </h1>
 
@@ -76,6 +78,7 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 </video>
 
 <h2> Casos por millón de habitantes </h2>
+
 
 <img src="imagenes/MUNDO-casosx1M.png" width="800">
 
