@@ -8,14 +8,14 @@
 
 <h2> Animaciones </h2>
 
-<h3> Córdoba, casos semanales 01/04/2020-02/12/2020 </h3>
+<h3> Córdoba, casos semanales 01/04/2020-30/12/2020 </h3>
 
 <video width="640" height="480" controls>
  <source src="video/CordobaSemanales.mp4" type="video/mp4">
 </video>
 
 
-<h3> AMBA,casos semanales 01/04/2020-02/12/2020 </h3>
+<h3> AMBA,casos semanales 01/04/2020-30/12/2020 </h3>
 
 <video width="640" height="480" controls>
  <source src="video/AMBASemanales.mp4" type="video/mp4">
@@ -23,7 +23,7 @@
 
 <h3> Argentina </h3>
 
-**Casos semanales 01/04/2020-02/12/2020**  
+**Casos semanales 01/04/2020-30/12/2020**  
 
 <video width="440" height="1000" controls><source src="video/ARGSemanales.mp4" type="video/mp4"></video>
 
@@ -71,7 +71,7 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
 <h1> DATOS INTERNACIONALES </h1>
 
-<h2> Casos acumulados  22/01/2020-12/12/2020 </h2>
+<h2> Casos acumulados  22/01/2020-30/12/2020 </h2>
 
 <video width="1000" height="700" controls>
  <source src="video/PandeGlobal.mp4" type="video/mp4">
