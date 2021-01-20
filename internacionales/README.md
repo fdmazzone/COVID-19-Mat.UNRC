@@ -47,4 +47,4 @@
 |<img src="imagenes/China.png">|<img src="imagenes/Japan.png">|
 |<img src="imagenes/Iran.png">|<img src="imagenes/Korea, South.png">|
 |<img src="imagenes/India.png">|<img src="imagenes/Iraq.png">|
-|<img src="imagenes/Saudi Arabia.png">||
+|<img src="imagenes/Saudi Arabia.png">|<img src="imagenes/Israel.png"> |
