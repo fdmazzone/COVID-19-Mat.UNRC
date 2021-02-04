@@ -9,7 +9,6 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
 1. **Córdoba**
 <img src="imagenes/CÓRDOBAfit.png" width="800">
-
 [SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTOS](cordoba/README.md)
 
 2. **Buenos Aires**
