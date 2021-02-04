@@ -8,7 +8,7 @@
 
 <h2> Casos por millón de habitantes </h2>
 
-La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha.
+La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha..
 
 <img src="https://raw.githubusercontent.com/fdmazzone/COVID-19-Mat.UNRC/main/video/mundo/densidad/mundo_densidad.gif" width="940" height="400">
 
