@@ -1,7 +1,14 @@
-<h1> AMBA </h1>
+
+<h1> AMBA,casos semanales 01/04/2020-30/12/2020 </h1>
+
+<video width="640" height="480" controls>
+ <source src="video/AMBASemanales.mp4" type="video/mp4">
+</video>
 
 
-<h2> Situación Epidemiológica </h2>
+
+
+<h1> Situación Epidemiológica </h1>
 
 <img src="imagenes/amba-0.png" width="800">
 
