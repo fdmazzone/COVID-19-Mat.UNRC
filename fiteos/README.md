@@ -1,12 +1,11 @@
-<h1> Modelización </h1>
 
 Utilización de un modelo SEIR para estimar la velocidad de propagación de la pandemia y predecir los escenarios futuro. Ver [desripción del modelo](https://github.com/fdmazzone/COVID-19-Mat.UNRC/raw/main/docs/CharlaSEMCOVID.pdf) para más detalles.
 
-<h2> Argentina </h2>
+<h1> Argentina </h1>
 <img src="imagenes/ARGENTINAfit.png" width="800">
 
 
-<h3> Provincias </h3>
+<h1> Provincias </h1>
 
 1. **Córdoba**
 <img src="imagenes/CÓRDOBAfit.png" width="800">
@@ -36,5 +35,5 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 7. **La Pampa**
 <img src="imagenes/LA PAMPAfit.png" width="800">
 
-<h2> Brasil </h2>
+<h1> Brasil </h1>
 <img src="imagenes/BRAZILfit.png" width="800">
