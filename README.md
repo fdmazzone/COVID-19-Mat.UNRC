@@ -10,12 +10,12 @@
 
 La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha.
 
-<img src="/video/mundo/densidad/mundo_densidad.gif" width="940" height="400">
+<img src="https://raw.githubusercontent.com/fdmazzone/COVID-19-Mat.UNRC/main/video/mundo/densidad/mundo_densidad.gif" width="940" height="400">
 
 
 
 
- [<h1>SITUACIÓN EPIDEMIOLÓGICA POR PAISES</h1>](internacionales/README.md) 
+ [<h1>SITUACIÓN EPIDEMIOLÓGICA POR PAISES</h1>](internacionales/README.md)
 
 <h1> Pandemia COVID-19 en Argentina</h1>
 
