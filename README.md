@@ -4,7 +4,42 @@
 
 **Universidad Nacional de Río Cuarto**
 
-<h1> ARGENTINA </h1>
+<h1> Impacto Global Pandemia COVID-19</h1>
+
+<h2> Casos por millón de habitantes </h2>
+
+La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha.
+
+<video width="640" height="480" controls>
+ <source src="/video/mundo/densidad/mundo_densidad.gif">
+</video>
+
+
+[SITUACIÓN EPIDEMIOLÓGICA POR PAISES](internacionales/README.md)
+
+
+<h1> Pandemia COVID-19 en Argentina</h1>
+
+**Casos por millón**                |
+
+<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="600">
+
+
+
+[SITUACIÓN EPIDEMIOLÓGICA POR PROVINCIAS](provincias/README.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2> Animaciones </h2>
 
@@ -27,9 +62,7 @@
 
 <video width="440" height="1000" controls><source src="video/ARGSemanales.mp4" type="video/mp4"></video>
 
-**Casos por millón**                |
 
-<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="600">
 
 <h1> Modelización </h1>
 
@@ -81,6 +114,3 @@ Utilización de un modelo SEIR para estimar la velocidad de propagación de la p
 
 
 <img src="imagenes/MUNDO-casosx1M.png" width="800">
-
-
-[SITUACIÓN EPIDEMIOLÓGICA POR PAISES](internacionales/README.md)
