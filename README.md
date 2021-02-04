@@ -10,9 +10,9 @@
 
 La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha.
 
-<video width="640" height="480" controls>
- <source src="/video/mundo/densidad/mundo_densidad.gif">
-</video>
+<img src="/video/mundo/densidad/mundo_densidad.gif" width="940" height="400">
+
+
 
 
 [SITUACIÓN EPIDEMIOLÓGICA POR PAISES](internacionales/README.md)
@@ -22,7 +22,7 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 **Casos por millón**                |
 
-<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="600">
+<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="800">
 
 
 
