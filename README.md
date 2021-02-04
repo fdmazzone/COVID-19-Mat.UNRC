@@ -15,8 +15,7 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 
 
-[SITUACIÓN EPIDEMIOLÓGICA POR PAISES](internacionales/README.md)
-
+ [<h1>SITUACIÓN EPIDEMIOLÓGICA POR PAISES</h1>](internacionales/README.md) 
 
 <h1> Pandemia COVID-19 en Argentina</h1>
 
@@ -26,7 +25,8 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 
 
-[SITUACIÓN EPIDEMIOLÓGICA POR PROVINCIAS](provincias/README.md)
+
+<h1> [SITUACIÓN EPIDEMIOLÓGICA POR PROVINCIAS](provincias/README.md) </h1>
 
 
 
