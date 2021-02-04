@@ -12,10 +12,7 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 <img src="imagenes/mundo_densidad.gif" width="940" height="400">
 
-
-
-
-[<h1>SITUACIÓN EPIDEMIOLÓGICA POR PAISES</h1>](internacionales/README.md)
+** Para estadísticas por país** [Ir a..](internacionales/README.md)
 
 <h1> Pandemia COVID-19 en Argentina</h1>
 
@@ -26,6 +23,12 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 <img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="800">
 
 
+** Para estadísticas por provincias** [Ir a..](provincias/README.md)
 
 
-[<h1>SITUACIÓN EPIDEMIOLÓGICA POR PROVINCIAS</h1>](provincias/README.md)
+
+
+
+<h1> Modelización </h1>
+
+**Implementación de modelos matemáticos sobre algiunos distritos y países** [Ir a..](fiteos/README.md)
