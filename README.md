@@ -10,7 +10,7 @@
 
 La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha.
 
-<img src="imagenes/mundo_densidad.gif" width="940" height="400">
+<img src="/imagenes/mundo_densidad.gif" width="940" height="400">
 
 
 
