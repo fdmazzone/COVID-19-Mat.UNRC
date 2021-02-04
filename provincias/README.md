@@ -1,8 +1,8 @@
 <h1> Situación Epidemiológica por Provincias </h1>
 
-[<h1>CÓRDOBA: SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTO </h1>](amba/README.md) 
+[<h1>CÓRDOBA: SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTO </h1>](cordoba/README.md) 
 
-[<h1>AMBA: SITUACIÓN EPIDEMIOLÓGICA POR PARTIDO</h1>](provincias/README.md)
+[<h1>AMBA: SITUACIÓN EPIDEMIOLÓGICA POR PARTIDO</h1>](amba/README.md)
 
 |----------|----------|
 |<img src="imagenes/Buenos Aires.png">|<img src="imagenes/CABA.png">|
