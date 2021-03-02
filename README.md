@@ -6,6 +6,9 @@
 
 <h1> Impacto Global Pandemia COVID-19</h1>
 
+<img src="internacionales/imagenes/Mundial.png" width="640" height="800">
+
+
 <h2> Casos por millón de habitantes </h2>
 
 La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha..
