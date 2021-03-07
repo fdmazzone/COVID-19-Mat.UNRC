@@ -1,9 +1,9 @@
 
 <h1> AMBA,casos semanales 01/04/2020-30/12/2020 </h1>
 
-<video width="640" height="480" controls>
- <source src="video/AMBASemanales.mp4" type="video/mp4">
-</video>
+
+<img src="video/Amba_x_casos_x_semana.gif" >
+
 
 
 

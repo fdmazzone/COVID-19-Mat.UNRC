@@ -13,7 +13,7 @@
 
 La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta la fecha..
 
-<img src="imagenes/mundo_densidad.gif" width="940" height="400">
+<img src="video/Planeta_Casos_x_Millon_x_Semana.gif" width="940" height="400">
 
 **Para estadísticas por país** [Ir a..](internacionales/README.md)
 
@@ -23,7 +23,10 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 <h1>Casos por millón</h1>
 
 
-<img src="imagenes/ARGENTINA-casosx1M.png" width="640" height="800">
+             Casos x semana animación                               Casos x millón última semana| 
+|<img src="video/argentina_casos_x_semana.gif">|<img src="imagenes/ARGENTINA-casosx1M.png" width="600" height="720">|
+
+
 
 
 **Para estadísticas por provincias** [Ir a..](provincias/README.md)
