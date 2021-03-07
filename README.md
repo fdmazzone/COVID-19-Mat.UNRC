@@ -19,12 +19,10 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 <h1> Pandemia COVID-19 en Argentina</h1>
 
-
-<h1>Casos por millón</h1>
-
-
-             Casos x semana animación                               Casos x millón última semana| 
-|<img src="video/argentina_casos_x_semana.gif">|<img src="imagenes/ARGENTINA-casosx1M.png" width="600" height="720">|
+<h1> Casos semanales </h1>
+<img src="video/argentina_casos_x_semana.gif">
+<h1>Casos por millón última semana</h1>
+<img src="imagenes/ARGENTINA-casosx1M.png" width="800" height="720"> 
 
 
 
