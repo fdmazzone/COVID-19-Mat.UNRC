@@ -3,6 +3,19 @@
 
 <img src="video/Cordoba_x_casos_x_semana.gif" >
 
+<h1> Evolución de casos asintomáticos detectados</h1>
+
+<img src="imagenes/sint_asint.png" width="800">
+
+<h1> Casos por grupo etarios cada 100.000 habitates</h1>
+
+<img src="imagenes/Edades.png" width="800">
+
+<h1> Testeos y casos</h1>
+
+<img src="imagenes/testeos1.png" width="800">
+
+<img src="imagenes/testeos2.png" width="800">
 
 <h1> IMPACTO PANDEMIA POR DEPARTAMENTOS, Estadística general</h1>
 
