@@ -1,10 +1,7 @@
 
+* [<font size="6"> CÓRDOBA: SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTO </font> ](provincias/README.md)
 
-**CÓRDOBA: SITUACIÓN EPIDEMIOLÓGICA POR DEPARTAMENTO:** [Ir a..](cordoba/README.md) 
-
-
-**AMBA: SITUACIÓN EPIDEMIOLÓGICA POR PARTIDO:** [Ir a..](amba/README.md)
-
+* [<font size="6"> AMBA: SITUACIÓN EPIDEMIOLÓGICA POR PARTIDO</font> ](provincias/README.md)
 
 
 <h1> Situación Epidemiológica por Provincias </h1>

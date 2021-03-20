@@ -3,6 +3,10 @@
 
 <img src="video/Cordoba_x_casos_x_semana.gif" >
 
+<h1> Casos, internaciones, respirador, muertes</h1>
+
+<img src="imagenes/Estadistica-General.png" width="800">
+
 <h1> Evolución de casos asintomáticos detectados</h1>
 
 <img src="imagenes/sint_asint.png" width="800">
