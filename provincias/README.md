@@ -6,7 +6,6 @@
 
 <h1> Situación Epidemiológica por Provincias </h1>
 
-|----------|----------|
 |<img src="imagenes/Buenos Aires.png">|<img src="imagenes/CABA.png">|
 |<img src="imagenes/Catamarca.png">|<img src="imagenes/Chaco.png">|
 |<img src="imagenes/Chubut.png">|<img src="imagenes/Córdoba.png">|
