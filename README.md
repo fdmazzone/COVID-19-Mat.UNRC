@@ -8,7 +8,7 @@
 
 <h2> Casos por millón de habitantes </h2>
 
-La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta 01/03/2021.
+La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta 23/12/2021.
 
 <img src="video/Planeta_Casos_x_Millon_x_Semana.gif" width="940" height="400">
 
@@ -29,13 +29,6 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 |<img src="imagenes/ARGENTINA-General.png" width="600" height="600">|
 
-<h1>Testeos</h1>
-
-|<img src="imagenes/ARGENTINA-testeos1.png" width="600" height="600">|
-<img src="imagenes/ARGENTINA-testeos2.png" width="600" height="600">|
-
-
-
 
 
 
@@ -45,4 +38,4 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 <h1> Modelización </h1>
 
-[<font size="6"> Modelización Matemática (previo vacunación) </font> ](fiteos/README.md)
+[<font size="6"> Modelización Matemática  </font> ](fiteos/README.md)

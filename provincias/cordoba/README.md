@@ -1,4 +1,4 @@
-<h1> Animación: Córdoba, casos semanales 01/04/2020-30/12/2020 </h1>
+<h1> Animación: Córdoba, casos semanales 01/04/2020-23/12/2021 </h1>
 
 
 <img src="video/Cordoba_x_casos_x_semana.gif" >
