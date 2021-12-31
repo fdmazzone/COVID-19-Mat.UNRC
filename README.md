@@ -8,7 +8,7 @@
 
 <h2> Casos por millón de habitantes </h2>
 
-La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta 23/12/2021.
+La animación muestra los casos por paises y por millón de habitantes y por semana desde 22/01/2020 hasta 23/12/2021.
 
 <img src="video/Planeta_Casos_x_Millon_x_Semana.gif" width="940" height="400">
 
