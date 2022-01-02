@@ -18,7 +18,7 @@ La animación muestra los casos por cada pais y por millón de habitantes y por 
 
 * [<font size="6"> Estadísticas por Provincia </font> ](provincias/README.md)
 
-<h1> Casos semanales </h1>
+<h1> Impacto de la variante ómicron 01/11/2021-01/01/2022</h1>
 <img src="video/argentina_casos_x_semana.gif">
 
 <h1>Casos por millón última semana</h1>
