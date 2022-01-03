@@ -15,11 +15,6 @@
 
 <img src="imagenes/Edades.png" width="800">
 
-<h1> Testeos y casos</h1>
-
-<img src="imagenes/testeos1.png" width="800">
-
-<img src="imagenes/testeos2.png" width="800">
 
 <h1> IMPACTO PANDEMIA POR DEPARTAMENTOS, Estadística general</h1>
 
