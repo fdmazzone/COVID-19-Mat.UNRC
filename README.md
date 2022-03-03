@@ -8,7 +8,7 @@
 
 <h2> Casos por millón de habitantes </h2>
 
-La animación muestra los casos por millón de habitantes y por semana desde 22/01/2020 hasta 01/03/2021.
+La siguiente animación muestra los casos por  pais, por millón de habitantes y por semana desde 22/01/2020 hasta 23/12/2021.
 
 <img src="video/Planeta_Casos_x_Millon_x_Semana.gif" width="940" height="400">
 
@@ -18,7 +18,7 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 * [<font size="6"> Estadísticas por Provincia </font> ](provincias/README.md)
 
-<h1> Casos semanales </h1>
+<h1> Impacto de la variante ómicron 01/11/2021-01/01/2022</h1>
 <img src="video/argentina_casos_x_semana.gif">
 
 <h1>Casos por millón última semana</h1>
@@ -29,13 +29,6 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 |<img src="imagenes/ARGENTINA-General.png" width="600" height="600">|
 
-<h1>Testeos</h1>
-
-|<img src="imagenes/ARGENTINA-testeos1.png" width="600" height="600">|
-<img src="imagenes/ARGENTINA-testeos2.png" width="600" height="600">|
-
-
-
 
 
 
@@ -45,4 +38,4 @@ La animación muestra los casos por millón de habitantes y por semana desde 22/
 
 <h1> Modelización </h1>
 
-[<font size="6"> Modelización Matemática (previo vacunación) </font> ](fiteos/README.md)
+[<font size="6"> Modelización Matemática  </font> ](fiteos/README.md)

@@ -28,6 +28,15 @@
 |<img src="imagenes/Mexico.png">|<img src="imagenes/US.png">|
 |<img src="imagenes/Canada.png">||
 
+<h1> África </h1>
+
+|----------|----------|
+|<img src="imagenes/Eswatini.png">|<img src="imagenes/Lesotho.png">|
+|<img src="imagenes/Zimbabwe.png">|<img src="imagenes/Mozambique.png">|
+|<img src="imagenes/Botswana.png">|<img src="imagenes/Namibia.png">|
+|<img src="imagenes/South Africa.png">||
+
+
 <h1> Europa </h1>
 
 |----------|----------|

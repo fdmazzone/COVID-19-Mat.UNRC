@@ -1,4 +1,4 @@
-<h1> Animación: Córdoba, casos semanales 01/04/2020-30/12/2020 </h1>
+<h1> Animación: Córdoba, casos semanales 01/04/2020-23/12/2021 </h1>
 
 
 <img src="video/Cordoba_x_casos_x_semana.gif" >
@@ -15,11 +15,6 @@
 
 <img src="imagenes/Edades.png" width="800">
 
-<h1> Testeos y casos</h1>
-
-<img src="imagenes/testeos1.png" width="800">
-
-<img src="imagenes/testeos2.png" width="800">
 
 <h1> IMPACTO PANDEMIA POR DEPARTAMENTOS, Estadística general</h1>
 
